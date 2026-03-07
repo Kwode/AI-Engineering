@@ -1,0 +1,7 @@
+my_nlp_env/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+/nlp_env
